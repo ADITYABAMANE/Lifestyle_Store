@@ -1,1 +1,2 @@
-# Lifestyle_Store
+# LifestyleStore
+The Web Development Training by Internshala
